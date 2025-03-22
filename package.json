@@ -19,6 +19,7 @@
   "homepage": "https://github.com/reyes-byui/cse-341-contacts#readme",
   "dependencies": {
     "dotenv": "^16.4.7",
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "mongodb": "^6.15.0"
   }
 }
