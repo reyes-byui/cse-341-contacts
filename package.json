@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/reyes-byui/cse-341-contacts/issues"
   },
-  "homepage": "https://github.com/reyes-byui/cse-341-contacts#readme"
+  "homepage": "https://github.com/reyes-byui/cse-341-contacts#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
