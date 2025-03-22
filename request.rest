@@ -4,4 +4,7 @@ GET http://localhost:3000
 GET http://localhost:3000/users
 
 ### Get user by id
-GET http://localhost:3000/users/67ddf7ade7639f4e67ede61f
+GET http://localhost:3000/users/67de409bd48ee830d1c1a1c4
+
+### Test database connection
+GET http://localhost:3000/test-db-connection
